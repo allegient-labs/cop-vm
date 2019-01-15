@@ -60,6 +60,7 @@ Let's clone this project from GitHub to a folder where you would normally clone 
 cd <to-your-github-workspace>
 git clone https://github.com/allegient-labs/cop-vm.git
 cd cop-vm
+git checkout jenkins-cop
 vagrant up
 ```
 
