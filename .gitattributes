@@ -1,0 +1,17 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+Vagrantfile text
+*.sh text
+*.css text
+*.html text
+*.java text
+*.js text
+*.jsp text
+*.jspf text
+*.xml text
+*.json text
+
+*.gif binary
+*.jpg binary
+*.png binary
