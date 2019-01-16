@@ -5,7 +5,7 @@ yum -y update
 
 # Dev Tools Installation
 yum install -y epel-release
-yum install -y git python-pip java-1.8.0-openjdk-devel unzip
+yum install -y git python-pip java-1.8.0-openjdk-devel unzip nodejs
 
 # Docker installation
 yum install -y yum-utils \

@@ -9,6 +9,7 @@ This VM comes equipped with the following tools:
 * Python 2.7
 * Pip
 * Open JDK 8
+* Node 6
 * Docker
 * Jenkins
 * ngrok
